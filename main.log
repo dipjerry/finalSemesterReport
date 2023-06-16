@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.12)  16 JUN 2023 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.12)  16 JUN 2023 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -838,7 +838,14 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count378
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 72.
- (./main.aux (./title1.aux) (./LOP.aux) (./Biography.aux))
+ (./main.aux (./title1.aux)
+
+LaTeX Warning: Label `fig:figure3_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure3_1@cref' multiply defined.
+
+(./LOP.aux) (./Biography.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
@@ -893,10 +900,10 @@ Package hyperref Info: Link coloring ON on input line 75.
 \openout2 = `title1.aux'.
 
  (./title1.tex
-<Images/jec_logo.png, id=191, 278.84175pt x 294.50024pt>
+<Images/jec_logo.png, id=260, 278.84175pt x 294.50024pt>
 File: Images/jec_logo.png Graphic file (type png)
 <use Images/jec_logo.png>
-Package pdftex.def Info: Images/jec_logo.png  used on input line 70.
+Package pdftex.def Info: Images/jec_logo.png  used on input line 71.
 (pdftex.def)             Requested size: 106.85788pt x 112.85942pt.
  [1
 
@@ -904,10 +911,7 @@ Package pdftex.def Info: Images/jec_logo.png  used on input line 70.
 
 
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Images/jec_logo.png>]) [1
-
-
-]
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Images/jec_logo.png>])
 ------------------------------------------------------------------------------
  Acknowledgements
 ------------------------------------------------------------------------------
@@ -916,7 +920,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
 
  []
 
-[2] [2]
+[2
+
+
+]
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
@@ -935,11 +942,13 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5])
+) [5] [6])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [6]
+ [7] [8
+
+]
 ------------------------------------------------------------------------------
  List of Tables
 ------------------------------------------------------------------------------
@@ -947,10 +956,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [7
+ [9
 
-
-] [8
+] [10
 
 ]
 ------------------------------------------------------------------------------
@@ -960,9 +968,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [9
+ [11
 
-] [10
+] [12
 
 ] (./Chapters/Chapter_1/Chapter1.tex
 Chapter 1.
@@ -974,49 +982,85 @@ Chapter 1.
 
 
 
-] [2] [3] [4] [5]) (./Chapters/Chapter_2/Chapter2.tex [6]
+]
+Overfull \hbox (1.95291pt too wide) in paragraph at lines 26--42
+[]\OT1/cmr/m/n/12 We pro-pose " En-hanc-ing Trust and Trace-abil-ity in Sup-ply Chains through Blockchain
+ []
+
+[2] [3] [4] [5] [6] [7]) (./Chapters/Chapter_2/Chapter2.tex [8]
 Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
 ------------------------------------------------------------------------------
-[7
+[9
 
-] (./Chapters/Chapter_2/figures/figure2_1.tex) [8] [9] (./Chapters/Chapter_2/tables/table2_1.tex) [10] [11] [12] [13] [14] [15] [16] (./Chapters/Chapter_2/figures/figure2_2.tex
-<Chapters/Chapter_2/figures/image2_2.PNG, id=391, 433.18982pt x 504.16928pt>
+] (./Chapters/Chapter_2/figures/figure2_1.tex) [10] [11] (./Chapters/Chapter_2/tables/table2_1.tex) [12] [13] [14] [15] [16] [17] [18] (./Chapters/Chapter_2/figures/figure2_2.tex
+<Chapters/Chapter_2/figures/image2_2.PNG, id=481, 433.18982pt x 504.16928pt>
 File: Chapters/Chapter_2/figures/image2_2.PNG Graphic file (type png)
 <use Chapters/Chapter_2/figures/image2_2.PNG>
 Package pdftex.def Info: Chapters/Chapter_2/figures/image2_2.PNG  used on input line 3.
 (pdftex.def)             Requested size: 170.97pt x 198.97928pt.
-) [17 <./Chapters/Chapter_2/figures/image2_2.PNG>] [18]) (./Chapters/Chapter_3/Chapter3.tex [19] [20]
+) [19 <./Chapters/Chapter_2/figures/image2_2.PNG>] [20]) (./Chapters/Chapter_3/Chapter3.tex [21] [22]
 Chapter 3.
 ------------------------------------------------------------------------------
- 3 Case Study
+ 3 Feasibility Study
 ------------------------------------------------------------------------------
-[21
+[23
 
-] [22] [23] (./Chapters/Chapter_3/figures/figure3_1.tex
-<Chapters/Chapter_3/figures/Image3_1a.PNG, id=423, 433.18982pt x 504.16928pt>
+] [24] [25] (./Chapters/Chapter_3/figures/figure3_1.tex
+<Chapters/Chapter_3/figures/Image3_1a.PNG, id=514, 433.18982pt x 504.16928pt>
 File: Chapters/Chapter_3/figures/Image3_1a.PNG Graphic file (type png)
 <use Chapters/Chapter_3/figures/Image3_1a.PNG>
 Package pdftex.def Info: Chapters/Chapter_3/figures/Image3_1a.PNG  used on input line 5.
 (pdftex.def)             Requested size: 170.97pt x 198.97928pt.
-<Chapters/Chapter_3/figures/Image3_1b.PNG, id=424, 433.18982pt x 504.16928pt>
+<Chapters/Chapter_3/figures/Image3_1b.PNG, id=515, 433.18982pt x 504.16928pt>
 File: Chapters/Chapter_3/figures/Image3_1b.PNG Graphic file (type png)
 <use Chapters/Chapter_3/figures/Image3_1b.PNG>
 Package pdftex.def Info: Chapters/Chapter_3/figures/Image3_1b.PNG  used on input line 11.
 (pdftex.def)             Requested size: 170.97pt x 198.97928pt.
-) [24] [25 <./Chapters/Chapter_3/figures/image3_1a.PNG> <./Chapters/Chapter_3/figures/image3_1b.PNG>] [26] [27]) (./Chapters/Chapter_4/Chapter4.tex [28]
+) [26] [27 <./Chapters/Chapter_3/figures/image3_1a.PNG> <./Chapters/Chapter_3/figures/image3_1b.PNG>] [28] [29]) (./Chapters/Chapter_4/Chapter4.tex [30]
 Chapter 4.
 ------------------------------------------------------------------------------
- 4 Conclusions
+ 4 Methodology
 ------------------------------------------------------------------------------
-[29
+[31
 
-] [30] [31]) [32]
+] [32] [33]) (./Chapters/Chapter_5/Chapter5.tex [34]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 System Design and Architecture
+------------------------------------------------------------------------------
+[35
+
+] [36] [37]) (./Chapters/Chapter_6/Chapter6.tex [38]
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Implementation
+------------------------------------------------------------------------------
+[39
+
+] [40] [41]
+
+LaTeX Warning: Reference `fig:figure6_1' on page 42 undefined on input line 75.
+
+(./Chapters/Chapter_6/figures/figure6_1.tex
+File: Chapters/Chapter_3/figures/Image3_1a.PNG Graphic file (type png)
+<use Chapters/Chapter_3/figures/Image3_1a.PNG>
+Package pdftex.def Info: Chapters/Chapter_3/figures/Image3_1a.PNG  used on input line 5.
+(pdftex.def)             Requested size: 170.97pt x 198.97928pt.
+File: Chapters/Chapter_3/figures/Image3_1b.PNG Graphic file (type png)
+<use Chapters/Chapter_3/figures/Image3_1b.PNG>
+Package pdftex.def Info: Chapters/Chapter_3/figures/Image3_1b.PNG  used on input line 11.
+(pdftex.def)             Requested size: 170.97pt x 198.97928pt.
+) [42] [43] [44] [45]) [46]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./main.bbl) [33
+(./main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 15.
+
+) [47
 
 
 
@@ -1029,22 +1073,28 @@ Chapter 4.
 
 No file Biography.tex.
 (./main.aux (./title1.aux) (./LOP.aux) (./Biography.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4A732D6EBA65023E155BE3B3526180EF;7384.
+(rerunfilecheck)             Checksum: A8C1EA49E23C723F9D933F12598934E8;10769.
  ) 
 Here is how much of TeX's memory you used:
- 30728 strings out of 478024
- 588580 string characters out of 5842701
- 939524 words of memory out of 5000000
- 48476 multiletter control sequences out of 15000+600000
- 478439 words of font info for 61 fonts, out of 8000000 for 9000
+ 30788 strings out of 478024
+ 589603 string characters out of 5842701
+ 939675 words of memory out of 5000000
+ 48495 multiletter control sequences out of 15000+600000
+ 478270 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,89p,1707b,940s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (45 pages, 1806047 bytes).
+ 84i,16n,89p,889b,940s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (59 pages, 1826370 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 461 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
- 401 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 679 PDF objects out of 1000 (max. 8388607)
+ 588 compressed objects within 6 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
