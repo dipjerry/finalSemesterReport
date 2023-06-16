@@ -8,60 +8,48 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.9}%
 \contentsline {section}{\numberline {1.1}Overview}{1}{section.10}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{4}{section.11}%
-\contentsline {subsection}{\numberline {1.2.1}SubSection}{5}{subsection.12}%
-\contentsline {subsection}{\numberline {1.2.2}SubSection}{5}{subsection.13}%
-\contentsline {section}{\numberline {1.3}Need of the Study}{7}{section.14}%
-\contentsline {section}{\numberline {1.4}Practical Implications}{7}{section.15}%
-\contentsline {section}{\numberline {1.5}Study Objectives}{7}{section.16}%
-\contentsline {section}{\numberline {1.6}Scope of the Study}{8}{section.17}%
-\contentsline {section}{\numberline {1.7}Report Organization}{8}{section.18}%
-\contentsline {chapter}{\numberline {2}Literature Review}{9}{chapter.19}%
-\contentsline {section}{\numberline {2.1}Introduction}{9}{section.20}%
-\contentsline {section}{\numberline {2.2}Factors Influencing \ldots \ldots }{10}{section.21}%
-\contentsline {subsection}{\numberline {2.2.1}SubFactors}{11}{subsection.23}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}SubSubFactors}{11}{subsubsection.24}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}SubSubFactors}{12}{subsubsection.26}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}SubSubFactors}{14}{subsubsection.27}%
-\contentsline {subsection}{\numberline {2.2.2}SubFactors}{15}{subsection.28}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}SubSubFactors}{15}{subsubsection.29}%
-\contentsline {subsubsection}{\numberline {2.2.2.2}SubSubFactors}{16}{subsubsection.30}%
-\contentsline {subsection}{\numberline {2.2.3}SubFactors}{19}{subsection.31}%
-\contentsline {section}{\numberline {2.3}Research Gaps from the Literature Review}{20}{section.33}%
-\contentsline {section}{\numberline {2.4}Summary}{21}{section.34}%
-\contentsline {chapter}{\numberline {3}Feasibility Study}{23}{chapter.35}%
-\contentsline {section}{\numberline {3.1}Introduction}{23}{section.36}%
-\contentsline {subsection}{\numberline {3.1.1}Brief Outline of the study}{23}{subsection.37}%
-\contentsline {section}{\numberline {3.2}Problem Statement}{25}{section.38}%
-\contentsline {section}{\numberline {3.3}Objective of the Study}{25}{section.39}%
-\contentsline {section}{\numberline {3.4}Methodology}{26}{section.40}%
-\contentsline {subsection}{\numberline {3.4.1}Study Location Selection}{26}{subsection.41}%
-\contentsline {subsection}{\numberline {3.4.2}Data Collection Strategy}{27}{subsection.43}%
-\contentsline {subsection}{\numberline {3.4.3}Data Extraction and Coding}{28}{subsection.44}%
-\contentsline {subsection}{\numberline {3.4.4}Methodology Adopted for the Analysis}{28}{subsection.45}%
-\contentsline {section}{\numberline {3.5}Study Observations}{29}{section.46}%
-\contentsline {section}{\numberline {3.6}Study Limitations}{30}{section.47}%
-\contentsline {section}{\numberline {3.7}Practical Implications}{30}{section.48}%
-\contentsline {chapter}{\numberline {4}Methodology}{31}{chapter.49}%
-\contentsline {section}{\numberline {4.1}Methodology}{31}{section.50}%
-\contentsline {section}{\numberline {4.2}Methodology}{32}{section.51}%
-\contentsline {section}{\numberline {4.3}Scope for Future Work}{33}{section.52}%
-\contentsline {chapter}{\numberline {5}System Design and Architecture}{35}{chapter.53}%
-\contentsline {section}{\numberline {5.1}System Design and Architecture}{35}{section.54}%
-\contentsline {section}{\numberline {5.2}System Design and Architecture}{36}{section.55}%
-\contentsline {section}{\numberline {5.3}Scope for Future Work}{37}{section.56}%
-\contentsline {chapter}{\numberline {6}Implementation}{39}{chapter.57}%
-\contentsline {section}{\numberline {6.1}Implementation}{39}{section.58}%
-\contentsline {subsection}{\numberline {6.1.1}Brief Outline of the study}{39}{subsection.59}%
-\contentsline {section}{\numberline {6.2}Problem Statement}{41}{section.60}%
-\contentsline {section}{\numberline {6.3}Objective of the Study}{41}{section.61}%
-\contentsline {section}{\numberline {6.4}Methodology}{42}{section.62}%
-\contentsline {subsection}{\numberline {6.4.1}Study Location Selection}{42}{subsection.63}%
-\contentsline {subsection}{\numberline {6.4.2}Data Collection Strategy}{43}{subsection.65}%
-\contentsline {subsection}{\numberline {6.4.3}Data Extraction and Coding}{44}{subsection.66}%
-\contentsline {subsection}{\numberline {6.4.4}Methodology Adopted for the Analysis}{44}{subsection.67}%
-\contentsline {section}{\numberline {6.5}Study Observations}{45}{section.68}%
-\contentsline {section}{\numberline {6.6}Study Limitations}{46}{section.69}%
-\contentsline {section}{\numberline {6.7}Practical Implications}{46}{section.70}%
+\contentsline {section}{\numberline {1.3}Need of the Study}{5}{section.12}%
+\contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.13}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.14}%
+\contentsline {section}{\numberline {2.2}Factors Influencing \ldots \ldots }{8}{section.15}%
+\contentsline {subsection}{\numberline {2.2.1}SubFactors}{9}{subsection.17}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}SubSubFactors}{9}{subsubsection.18}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}SubSubFactors}{10}{subsubsection.20}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}SubSubFactors}{12}{subsubsection.21}%
+\contentsline {subsection}{\numberline {2.2.2}SubFactors}{13}{subsection.22}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}SubSubFactors}{13}{subsubsection.23}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}SubSubFactors}{14}{subsubsection.24}%
+\contentsline {subsection}{\numberline {2.2.3}SubFactors}{17}{subsection.25}%
+\contentsline {section}{\numberline {2.3}Research Gaps from the Literature Review}{18}{section.27}%
+\contentsline {section}{\numberline {2.4}Summary}{19}{section.28}%
+\contentsline {chapter}{\numberline {3}Feasibility Study}{21}{chapter.29}%
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.30}%
+\contentsline {subsection}{\numberline {3.1.1}Technical Feasibility}{21}{subsection.31}%
+\contentsline {subsection}{\numberline {3.1.2}Economic Feasibility}{22}{subsection.32}%
+\contentsline {subsection}{\numberline {3.1.3}Operational Feasibility}{22}{subsection.33}%
+\contentsline {section}{\numberline {3.2}Conclusion}{22}{section.34}%
+\contentsline {chapter}{\numberline {4}Methodology}{25}{chapter.35}%
+\contentsline {section}{\numberline {4.1}Methodology}{25}{section.36}%
+\contentsline {section}{\numberline {4.2}Methodology}{26}{section.37}%
+\contentsline {section}{\numberline {4.3}Scope for Future Work}{27}{section.38}%
+\contentsline {chapter}{\numberline {5}System Design and Architecture}{29}{chapter.39}%
+\contentsline {section}{\numberline {5.1}Introduction}{29}{section.40}%
+\contentsline {subsection}{\numberline {5.1.1}Hyperledger Fabric}{29}{subsection.41}%
+\contentsline {subsection}{\numberline {5.1.2}Membership and Access Control}{31}{subsection.43}%
+\contentsline {subsection}{\numberline {5.1.3}Machine Learning}{32}{subsection.45}%
+\contentsline {chapter}{\numberline {6}Implementation}{35}{chapter.47}%
+\contentsline {section}{\numberline {6.1}Implementation}{35}{section.48}%
+\contentsline {subsection}{\numberline {6.1.1}Brief Outline of the study}{35}{subsection.49}%
+\contentsline {section}{\numberline {6.2}Problem Statement}{37}{section.50}%
+\contentsline {section}{\numberline {6.3}Objective of the Study}{37}{section.51}%
+\contentsline {section}{\numberline {6.4}Methodology}{38}{section.52}%
+\contentsline {subsection}{\numberline {6.4.1}Study Location Selection}{38}{subsection.53}%
+\contentsline {subsection}{\numberline {6.4.2}Data Collection Strategy}{39}{subsection.55}%
+\contentsline {subsection}{\numberline {6.4.3}Data Extraction and Coding}{40}{subsection.56}%
+\contentsline {subsection}{\numberline {6.4.4}Methodology Adopted for the Analysis}{40}{subsection.57}%
+\contentsline {section}{\numberline {6.5}Study Observations}{41}{section.58}%
+\contentsline {section}{\numberline {6.6}Study Limitations}{42}{section.59}%
+\contentsline {section}{\numberline {6.7}Practical Implications}{42}{section.60}%
 \vspace {2em}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{47}{dummy.71}%
+\contentsline {chapter}{Bibliography}{43}{dummy.61}%
