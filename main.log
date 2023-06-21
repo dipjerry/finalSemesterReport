@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.21)  21 JUN 2023 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.21)  21 JUN 2023 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -908,9 +908,15 @@ Package pdftex.def Info: Images/jec_logo.png  used on input line 72.
 
 {C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/jec_logo.png>])
 ------------------------------------------------------------------------------
- Acknowledgements
+ Certificate
 ------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+
+ []
+
 [2
+
 
 
 ]
@@ -918,35 +924,35 @@ Package pdftex.def Info: Images/jec_logo.png  used on input line 72.
  Certificate
 ------------------------------------------------------------------------------
 
-Overfull \hbox (4.67987pt too wide) in paragraph at lines 282--282
-[]\OT1/cmr/bx/n/17.28 DEPARTMENT OF COM-PUTER SCI-ENCE AND
- []
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
 
-
-Overfull \hbox (5.48415pt too wide) in paragraph at lines 282--282
-\OT1/cmr/bx/n/17.28 EN-GI-NEER-ING, JORHAT EN-GI-NEER-ING COL-
  []
 
 [3
 
 ]
 ------------------------------------------------------------------------------
+ Acknowledgements
+------------------------------------------------------------------------------
+[4]
+------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
-[4
+[5
 
 ]
 ------------------------------------------------------------------------------
  Table of Contents
 ------------------------------------------------------------------------------
+[6
+
+
+]
 No file main.toc.
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-[5
-
-
-] [6
+[7] [8
 
 ]
 ------------------------------------------------------------------------------
@@ -956,9 +962,9 @@ No file main.lot.
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
-[7
+[9
 
-] [8
+] [10
 
 ]
 ------------------------------------------------------------------------------
@@ -968,9 +974,9 @@ No file main.lof.
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
-[9
+[11
 
-] [10
+] [12
 
 ]
 ------------------------------------------------------------------------------
@@ -988,9 +994,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lol=\write9
 \openout9 = `main.lol'.
 
- [11
+ [13
 
-] [12
+] [14
 
 ] (Chapters/Chapter_1/Chapter1.tex
 Chapter 1.
@@ -1038,129 +1044,89 @@ Chapter 4.
 ------------------------------------------------------------------------------
  4 Methodology
 ------------------------------------------------------------------------------
-[15] [16] [17]) (Chapters/Chapter_5/Chapter5.tex [18]
+[15] [16] [17] [18]) (Chapters/Chapter_5/Chapter5.tex [19] [20
+
+]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 System Design and Architecture
 ------------------------------------------------------------------------------
-[19
-
-] (Chapters/Chapter_5/figures/figure5_1.tex
-<Chapters/Chapter_5/figures/figure5_1.png, id=184, 580.41844pt x 364.36125pt>
+[21] (Chapters/Chapter_5/figures/figure5_1.tex
+<Chapters/Chapter_5/figures/figure5_1.png, id=201, 580.41844pt x 364.36125pt>
 File: Chapters/Chapter_5/figures/figure5_1.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/figure5_1.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/figure5_1.png  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 241.49103pt.
-) [20 <./Chapters/Chapter_5/figures/figure5_1.png>] (Chapters/Chapter_5/figures/figure5_2.tex
-<Chapters/Chapter_5/figures/x.509.png, id=193, 359.09157pt x 383.18156pt>
+) [22 <./Chapters/Chapter_5/figures/figure5_1.png>] (Chapters/Chapter_5/figures/figure5_2.tex
+<Chapters/Chapter_5/figures/x.509.png, id=210, 359.09157pt x 383.18156pt>
 File: Chapters/Chapter_5/figures/x.509.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/x.509.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/x.509.png  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 410.52058pt.
 )
 
-LaTeX Warning: Reference `fig:figure5_2' on page 21 undefined on input line 47.
+LaTeX Warning: Reference `fig:figure5_2' on page 23 undefined on input line 47.
 
-[21 <./Chapters/Chapter_5/figures/x.509.png>] (Chapters/Chapter_5/figures/figure5_3.tex
-<Chapters/Chapter_5/figures/model_accurecy.png, id=201, 269.808pt x 213.79875pt>
+[23 <./Chapters/Chapter_5/figures/x.509.png>] (Chapters/Chapter_5/figures/figure5_3.tex
+<Chapters/Chapter_5/figures/model_accurecy.png, id=219, 269.808pt x 213.79875pt>
 File: Chapters/Chapter_5/figures/model_accurecy.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/model_accurecy.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/model_accurecy.png  used on input line 5.
 (pdftex.def)             Requested size: 170.97pt x 135.48338pt.
-<Chapters/Chapter_5/figures/validationloss.png, id=202, 272.81924pt x 217.41225pt>
+<Chapters/Chapter_5/figures/validationloss.png, id=220, 272.81924pt x 217.41225pt>
 File: Chapters/Chapter_5/figures/validationloss.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/validationloss.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/validationloss.png  used on input line 11.
 (pdftex.def)             Requested size: 170.97pt x 136.25053pt.
 )
 
-LaTeX Warning: Reference `fig:figure5_3' on page 22 undefined on input line 57.
+LaTeX Warning: Reference `fig:figure5_3' on page 24 undefined on input line 57.
 
 
-LaTeX Warning: Reference `fig:figure5_3' on page 22 undefined on input line 59.
+LaTeX Warning: Reference `fig:figure5_3' on page 24 undefined on input line 59.
 
-[22] (Chapters/Chapter_5/figures/figure5_4.tex
-<Chapters/Chapter_5/figures/dashboard.png, id=208, 1896.08376pt x 880.28876pt>
+[24] (Chapters/Chapter_5/figures/figure5_4.tex
+<Chapters/Chapter_5/figures/dashboard.png, id=226, 1896.08376pt x 880.28876pt>
 File: Chapters/Chapter_5/figures/dashboard.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/dashboard.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/dashboard.png  used on input line 5.
 (pdftex.def)             Requested size: 427.43153pt x 198.43253pt.
-<Chapters/Chapter_5/figures/login.png, id=209, 596.82974pt x 275.22826pt>
+<Chapters/Chapter_5/figures/login.png, id=227, 596.82974pt x 275.22826pt>
 File: Chapters/Chapter_5/figures/login.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/login.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/login.png  used on input line 11.
 (pdftex.def)             Requested size: 427.43153pt x 197.11427pt.
-) [23 <./Chapters/Chapter_5/figures/model_accurecy.png> <./Chapters/Chapter_5/figures/validationloss.png>] [24 <./Chapters/Chapter_5/figures/dashboard.png> <./Chapters/Chapter_5/figures/login.png>] (Chapters/Chapter_5/figures/figure5_6.tex
-<Chapters/Chapter_5/figures/data_flow.jpg, id=226, 505.89pt x 468.24937pt>
+) [25 <./Chapters/Chapter_5/figures/model_accurecy.png> <./Chapters/Chapter_5/figures/validationloss.png>] [26 <./Chapters/Chapter_5/figures/dashboard.png> <./Chapters/Chapter_5/figures/login.png>] (Chapters/Chapter_5/figures/figure5_6.tex
+<Chapters/Chapter_5/figures/data_flow.jpg, id=244, 505.89pt x 468.24937pt>
 File: Chapters/Chapter_5/figures/data_flow.jpg Graphic file (type jpg)
 <use Chapters/Chapter_5/figures/data_flow.jpg>
 Package pdftex.def Info: Chapters/Chapter_5/figures/data_flow.jpg  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 356.06612pt.
 ) (Chapters/Chapter_5/figures/figure5_7.tex
-<Chapters/Chapter_5/figures/proposed_system.png, id=227, 536.75531pt x 317.68687pt>
+<Chapters/Chapter_5/figures/proposed_system.png, id=245, 536.75531pt x 317.68687pt>
 File: Chapters/Chapter_5/figures/proposed_system.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/proposed_system.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/proposed_system.png  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 227.68245pt.
-) [25] [26 <./Chapters/Chapter_5/figures/data_flow.jpg> <./Chapters/Chapter_5/figures/proposed_system.png>]) (Chapters/Chapter_6/Chapter6.tex [27] [28]
+) [27] [28 <./Chapters/Chapter_5/figures/data_flow.jpg> <./Chapters/Chapter_5/figures/proposed_system.png>]) (Chapters/Chapter_6/Chapter6.tex [29] [30]
 Chapter 6.
 ------------------------------------------------------------------------------
  6 Implementation
 ------------------------------------------------------------------------------
-[29
+[31
 
-] [30] (Chapters/Chapter_6/code/register.tex (E:\miktex\tex/latex/listings\lstlang1.sty
+]
+Overfull \hbox (172.51651pt too wide) in paragraph at lines 26--32
+\OT1/cmr/m/n/12 <<<<<<< HEAD hello write like this  ======= hello dip write here >>>>>>> c8e3b86bfde9be36a2677fd6856a0e7891d5064c 
+ []
+
+[32] (Chapters/Chapter_6/code/register.tex (E:\miktex\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
- [31]) (Chapters/Chapter_6/code/signin.tex) (Chapters/Chapter_6/code/createproduct.tex) (Chapters/Chapter_6/code/productlisting [32]
-
-Chapters/Chapter_6/code/productlisting:5: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÄ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 if user.type ‚Äúmanufacture‚Äù:
-                                   
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:5: LaTeX Error: Invalid UTF-8 byte "9C.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 if user.type ‚Äúmanufacture‚Äù:
-                                   
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:5: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@ECÄ\lst@ECù).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 if user.type ‚Äúmanufacture‚Äù:
-                                   
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
+ [33]) (Chapters/Chapter_6/code/signin.tex) (Chapters/Chapter_6/code/createproduct.tex) (Chapters/Chapter_6/code/productlisting [34]
 
 Chapters/Chapter_6/code/productlisting:7: LaTeX Error: Invalid UTF-8 byte sequence (‚\expandafter\lst@FillFixed@).
 
@@ -1267,54 +1233,9 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-Overfull \hbox (322.28506pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (332.48529pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
-
-
-Chapters/Chapter_6/code/productlisting:8: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÄ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 if user.type==‚Äùexporter‚Äù:
-                                 
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:8: LaTeX Error: Invalid UTF-8 byte "9D.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 if user.type==‚Äùexporter‚Äù:
-                                 
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:8: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@ECÄ\lst@ECù).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 if user.type==‚Äùexporter‚Äù:
-                                 
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 Chapters/Chapter_6/code/productlisting:10: LaTeX Error: Invalid UTF-8 byte sequence (‚\expandafter\lst@FillFixed@).
@@ -1457,51 +1378,6 @@ Overfull \hbox (143.78111pt too wide) in paragraph at lines 10--11
  []
 
 
-Chapters/Chapter_6/code/productlisting:11: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÄ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 if user.type==‚Äùimporter‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:11: LaTeX Error: Invalid UTF-8 byte "9D.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 if user.type==‚Äùimporter‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:11: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@ECÄ\lst@ECù).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 if user.type==‚Äùimporter‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
 Chapters/Chapter_6/code/productlisting:13: LaTeX Error: Invalid UTF-8 byte sequence (‚\expandafter\lst@FillFixed@).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1555,51 +1431,6 @@ Type  H <return>  for immediate help.
                                                   
 l.13 ...ata.delivered=true,status‚ÄùProcessing‚Äù)
                                                   
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:14: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÄ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 if user.type==‚Äùlogistic‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:14: LaTeX Error: Invalid UTF-8 byte "9D.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 if user.type==‚Äùlogistic‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:14: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@ECÄ\lst@ECù).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 if user.type==‚Äùlogistic‚Äù:
-                                  
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1717,51 +1548,6 @@ Overfull \hbox (327.38518pt too wide) in paragraph at lines 15--16
  []
 
 
-Chapters/Chapter_6/code/productlisting:16: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÄ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 if user.type==‚Äùretailer‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:16: LaTeX Error: Invalid UTF-8 byte "9D.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 if user.type==‚Äùretailer‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Chapters/Chapter_6/code/productlisting:16: LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@ECÄ\lst@ECù).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 if user.type==‚Äùretailer‚Äù:
-                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
 Chapters/Chapter_6/code/productlisting:18: LaTeX Error: Invalid UTF-8 byte sequence (‚\expandafter\lst@FillFixed@).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1871,7 +1657,12 @@ Overfull \hbox (327.38518pt too wide) in paragraph at lines 18--19
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-)) [33] [34
+)
+Overfull \hbox (185.06349pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/12 This is ex-am-ple on prod-uct list-ing  ======= hello dip write here >>>>>>> c8e3b86bfde9be36a2677fd6856a0e7891d5064c 
+ []
+
+) [35] [36
 
 
 ]
@@ -1882,7 +1673,7 @@ Overfull \hbox (327.38518pt too wide) in paragraph at lines 18--19
 
 Package natbib Warning: Empty `thebibliography' environment on input line 15.
 
-) [35
+) [37
 
 ]
 \openout2 = `LOP.aux'.
@@ -1911,20 +1702,20 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  46BE1437987F1B902F2C37834E8AEAE8;6687.
+(rerunfilecheck)             After:  199C3C101FED05FDC837C3AD82DE1138;6785.
  ) 
 Here is how much of TeX's memory you used:
- 31267 strings out of 476038
- 582918 string characters out of 5796290
- 1885749 words of memory out of 5000000
- 51243 multiletter control sequences out of 15000+600000
+ 31275 strings out of 476038
+ 582982 string characters out of 5796290
+ 1886749 words of memory out of 5000000
+ 51246 multiletter control sequences out of 15000+600000
  522426 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,93p,907b,2207s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ASUS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><E:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (47 pages, 1798291 bytes).
+Output written on main.pdf (51 pages, 1803595 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 147 named destinations out of 1000 (max. 500000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
