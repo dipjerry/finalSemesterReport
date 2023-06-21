@@ -41,7 +41,10 @@
 \contentsline {section}{\numberline {6.2} Experimental Setup}{30}{section.48}%
 \contentsline {section}{\numberline {6.3}Blockchain Network}{30}{section.49}%
 \contentsline {section}{\numberline {6.4}Chaincode Development}{30}{section.50}%
-\contentsline {subsection}{\numberline {6.4.1}Chaincode Development}{32}{subsection.51}%
+\contentsline {subsection}{\numberline {6.4.1}User Registration}{31}{subsection.51}%
+\contentsline {subsection}{\numberline {6.4.2}User Signin}{32}{subsection.58}%
+\contentsline {subsection}{\numberline {6.4.3}create product}{32}{subsection.65}%
+\contentsline {subsection}{\numberline {6.4.4}product listing}{33}{subsection.77}%
 \vspace {2em}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{35}{dummy.52}%
+\contentsline {chapter}{Bibliography}{35}{dummy.99}%
