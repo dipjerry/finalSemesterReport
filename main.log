@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.12)  19 JUN 2023 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.12)  21 JUN 2023 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -893,10 +893,10 @@ Package hyperref Info: Link coloring ON on input line 76.
 \openout2 = `title1.aux'.
 
  (./title1.tex
-<Images/jec_logo.png, id=171, 278.84175pt x 294.50024pt>
+<Images/jec_logo.png, id=175, 278.84175pt x 294.50024pt>
 File: Images/jec_logo.png Graphic file (type png)
 <use Images/jec_logo.png>
-Package pdftex.def Info: Images/jec_logo.png  used on input line 71.
+Package pdftex.def Info: Images/jec_logo.png  used on input line 72.
 (pdftex.def)             Requested size: 106.85788pt x 112.85942pt.
  [1
 
@@ -913,24 +913,42 @@ Package pdftex.def Info: Images/jec_logo.png  used on input line 71.
 
 ]
 ------------------------------------------------------------------------------
+ Certificate
+------------------------------------------------------------------------------
+
+Overfull \hbox (4.67987pt too wide) in paragraph at lines 282--282
+[]\OT1/cmr/bx/n/17.28 DEPARTMENT OF COM-PUTER SCI-ENCE AND
+ []
+
+
+Overfull \hbox (5.48415pt too wide) in paragraph at lines 282--282
+\OT1/cmr/bx/n/17.28 EN-GI-NEER-ING, JORHAT EN-GI-NEER-ING COL-
+ []
+
+[3
+
+]
+------------------------------------------------------------------------------
  Abstract Page
-------------------------------------------------------------------------------
-[3]
-------------------------------------------------------------------------------
- Table of Contents
 ------------------------------------------------------------------------------
 [4
 
-
-] (./main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+]
+------------------------------------------------------------------------------
+ Table of Contents
+------------------------------------------------------------------------------
+(./main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5])
+) [5
+
+
+])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1025,47 +1043,47 @@ Chapter 5.
 [19
 
 ] (./Chapters/Chapter_5/figures/figure5_1.tex
-<Chapters/Chapter_5/figures/figure5_1.png, id=367, 580.41844pt x 364.36125pt>
+<Chapters/Chapter_5/figures/figure5_1.png, id=372, 580.41844pt x 364.36125pt>
 File: Chapters/Chapter_5/figures/figure5_1.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/figure5_1.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/figure5_1.png  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 241.49103pt.
 ) [20 <./Chapters/Chapter_5/figures/figure5_1.png>] (./Chapters/Chapter_5/figures/figure5_2.tex
-<Chapters/Chapter_5/figures/x.509.png, id=375, 359.09157pt x 383.18156pt>
+<Chapters/Chapter_5/figures/x.509.png, id=380, 359.09157pt x 383.18156pt>
 File: Chapters/Chapter_5/figures/x.509.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/x.509.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/x.509.png  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 410.52058pt.
 ) [21 <./Chapters/Chapter_5/figures/x.509.png>] (./Chapters/Chapter_5/figures/figure5_3.tex
-<Chapters/Chapter_5/figures/model_accurecy.png, id=382, 269.808pt x 213.79875pt>
+<Chapters/Chapter_5/figures/model_accurecy.png, id=387, 269.808pt x 213.79875pt>
 File: Chapters/Chapter_5/figures/model_accurecy.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/model_accurecy.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/model_accurecy.png  used on input line 5.
 (pdftex.def)             Requested size: 170.97pt x 135.48338pt.
-<Chapters/Chapter_5/figures/validationloss.png, id=383, 272.81924pt x 217.41225pt>
+<Chapters/Chapter_5/figures/validationloss.png, id=388, 272.81924pt x 217.41225pt>
 File: Chapters/Chapter_5/figures/validationloss.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/validationloss.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/validationloss.png  used on input line 11.
 (pdftex.def)             Requested size: 170.97pt x 136.25053pt.
 ) [22] (./Chapters/Chapter_5/figures/figure5_4.tex
-<Chapters/Chapter_5/figures/dashboard.png, id=390, 1896.08376pt x 880.28876pt>
+<Chapters/Chapter_5/figures/dashboard.png, id=395, 1896.08376pt x 880.28876pt>
 File: Chapters/Chapter_5/figures/dashboard.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/dashboard.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/dashboard.png  used on input line 5.
 (pdftex.def)             Requested size: 427.43153pt x 198.43253pt.
-<Chapters/Chapter_5/figures/login.png, id=391, 596.82974pt x 275.22826pt>
+<Chapters/Chapter_5/figures/login.png, id=396, 596.82974pt x 275.22826pt>
 File: Chapters/Chapter_5/figures/login.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/login.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/login.png  used on input line 11.
 (pdftex.def)             Requested size: 427.43153pt x 197.11427pt.
 ) [23 <./Chapters/Chapter_5/figures/model_accurecy.png> <./Chapters/Chapter_5/figures/validationloss.png>] [24 <./Chapters/Chapter_5/figures/dashboard.png> <./Chapters/Chapter_5/figures/login.png>] (./Chapters/Chapter_5/figures/figure5_6.tex
-<Chapters/Chapter_5/figures/data_flow.jpg, id=404, 505.89pt x 468.24937pt>
+<Chapters/Chapter_5/figures/data_flow.jpg, id=409, 505.89pt x 468.24937pt>
 File: Chapters/Chapter_5/figures/data_flow.jpg Graphic file (type jpg)
 <use Chapters/Chapter_5/figures/data_flow.jpg>
 Package pdftex.def Info: Chapters/Chapter_5/figures/data_flow.jpg  used on input line 3.
 (pdftex.def)             Requested size: 384.68576pt x 356.06612pt.
 ) (./Chapters/Chapter_5/figures/figure5_7.tex
-<Chapters/Chapter_5/figures/proposed_system.png, id=405, 536.75531pt x 317.68687pt>
+<Chapters/Chapter_5/figures/proposed_system.png, id=410, 536.75531pt x 317.68687pt>
 File: Chapters/Chapter_5/figures/proposed_system.png Graphic file (type png)
 <use Chapters/Chapter_5/figures/proposed_system.png>
 Package pdftex.def Info: Chapters/Chapter_5/figures/proposed_system.png  used on input line 3.
@@ -1077,7 +1095,7 @@ Chapter 6.
 ------------------------------------------------------------------------------
 [29
 
-] [30] [31] [32] [33] [34]) [35] [36
+] [30] [31] [32]) [33] [34
 
 
 ]
@@ -1088,7 +1106,7 @@ Chapter 6.
 
 Package natbib Warning: Empty `thebibliography' environment on input line 15.
 
-) [37
+) [35
 
 ]
 \openout2 = `LOP.aux'.
@@ -1100,21 +1118,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 15.
 No file Biography.tex.
 (./main.aux (./title1.aux) (./LOP.aux) (./Biography.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 30191C46A4056B8D14D391399C1E02AF;6127.
+(rerunfilecheck)             Checksum: 5226E0E408CD7117D845BD8701F22C6B;6225.
  ) 
 Here is how much of TeX's memory you used:
  30598 strings out of 478024
- 587547 string characters out of 5842701
- 934699 words of memory out of 5000000
- 48329 multiletter control sequences out of 15000+600000
+ 587551 string characters out of 5842701
+ 933705 words of memory out of 5000000
+ 48330 multiletter control sequences out of 15000+600000
  477961 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,89p,913b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (49 pages, 1764233 bytes).
+Output written on main.pdf (47 pages, 1762432 bytes).
 PDF statistics:
- 517 PDF objects out of 1000 (max. 8388607)
- 433 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 513 PDF objects out of 1000 (max. 8388607)
+ 431 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 394 words of extra memory for PDF output out of 10000 (max. 10000000)
 
