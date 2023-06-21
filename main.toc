@@ -1,47 +1,48 @@
-\contentsline {chapter}{Acknowledgements}{}{dummy.1}%
+\contentsline {chapter}{Certificate}{}{dummy.1}%
 
 \contentsline {chapter}{Certificate}{}{dummy.2}%
 
-\contentsline {chapter}{Abstract}{}{dummy.3}%
+\contentsline {chapter}{Acknowledgements}{}{dummy.3}%
 
-\contentsline {chapter}{Contents}{}{dummy.4}%
-\contentsline {chapter}{List of Tables}{}{dummy.6}%
-\contentsline {chapter}{List of Figures}{}{dummy.8}%
-\contentsline {chapter}{Contents}{}{dummy.10}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.12}%
-\contentsline {section}{\numberline {1.1}Overview}{1}{section.13}%
-\contentsline {section}{\numberline {1.2}Problem Statement}{4}{section.14}%
-\contentsline {section}{\numberline {1.3}Need of the Study}{5}{section.15}%
-\contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.16}%
-\contentsline {section}{\numberline {2.1}Introduction}{7}{section.17}%
-\contentsline {section}{\numberline {2.2}Related Work}{8}{section.18}%
-\contentsline {section}{\numberline {2.3}Conclusion}{10}{section.19}%
-\contentsline {chapter}{\numberline {3}Feasibility Study}{11}{chapter.20}%
-\contentsline {section}{\numberline {3.1}Introduction}{11}{section.21}%
-\contentsline {subsection}{\numberline {3.1.1}Technical Feasibility}{11}{subsection.22}%
-\contentsline {subsection}{\numberline {3.1.2}Economic Feasibility}{12}{subsection.23}%
-\contentsline {subsection}{\numberline {3.1.3}Operational Feasibility}{12}{subsection.24}%
-\contentsline {section}{\numberline {3.2}Conclusion}{12}{section.25}%
-\contentsline {chapter}{\numberline {4}Methodology}{15}{chapter.26}%
-\contentsline {section}{\numberline {4.1}Introduction}{15}{section.27}%
-\contentsline {section}{\numberline {4.2}Objective}{16}{section.28}%
-\contentsline {section}{\numberline {4.3}Data Collection Method}{17}{section.29}%
-\contentsline {section}{\numberline {4.4}Conslusion}{18}{section.30}%
-\contentsline {chapter}{\numberline {5}System Design and Architecture}{19}{chapter.31}%
-\contentsline {section}{\numberline {5.1}Introduction}{19}{section.32}%
-\contentsline {subsection}{\numberline {5.1.1}Hyperledger Fabric}{19}{subsection.33}%
-\contentsline {subsection}{\numberline {5.1.2}Membership and Access Control}{21}{subsection.35}%
-\contentsline {subsection}{\numberline {5.1.3}Machine Learning}{22}{subsection.37}%
-\contentsline {subsection}{\numberline {5.1.4}Webapp}{23}{subsection.39}%
-\contentsline {subsection}{\numberline {5.1.5}REST API Layer}{24}{subsection.41}%
-\contentsline {section}{\numberline {5.2}Proposed system}{25}{section.42}%
-\contentsline {subsection}{\numberline {5.2.1}Product Management}{27}{subsection.45}%
-\contentsline {chapter}{\numberline {6}Implementation}{29}{chapter.46}%
-\contentsline {section}{\numberline {6.1}Introduction}{29}{section.47}%
-\contentsline {section}{\numberline {6.2} Experimental Setup}{30}{section.48}%
-\contentsline {section}{\numberline {6.3}Blockchain Network}{30}{section.49}%
-\contentsline {section}{\numberline {6.4}Chaincode Development}{30}{section.50}%
-\contentsline {subsection}{\numberline {6.4.1}Chaincode Development}{32}{subsection.51}%
+\contentsline {chapter}{Abstract}{}{dummy.4}%
+
+\contentsline {chapter}{Contents}{}{dummy.5}%
+\contentsline {chapter}{List of Tables}{}{dummy.7}%
+\contentsline {chapter}{List of Figures}{}{dummy.9}%
+\contentsline {chapter}{Contents}{}{dummy.11}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.13}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.14}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{4}{section.15}%
+\contentsline {section}{\numberline {1.3}Need of the Study}{5}{section.16}%
+\contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.17}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.18}%
+\contentsline {section}{\numberline {2.2}Related Work}{8}{section.19}%
+\contentsline {section}{\numberline {2.3}Conclusion}{10}{section.20}%
+\contentsline {chapter}{\numberline {3}Feasibility Study}{11}{chapter.21}%
+\contentsline {section}{\numberline {3.1}Introduction}{11}{section.22}%
+\contentsline {subsection}{\numberline {3.1.1}Technical Feasibility}{11}{subsection.23}%
+\contentsline {subsection}{\numberline {3.1.2}Economic Feasibility}{12}{subsection.24}%
+\contentsline {subsection}{\numberline {3.1.3}Operational Feasibility}{12}{subsection.25}%
+\contentsline {section}{\numberline {3.2}Conclusion}{12}{section.26}%
+\contentsline {chapter}{\numberline {4}Methodology}{15}{chapter.27}%
+\contentsline {section}{\numberline {4.1}Introduction}{15}{section.28}%
+\contentsline {section}{\numberline {4.2}Objective}{17}{section.29}%
+\contentsline {section}{\numberline {4.3}Data Collection Method}{18}{section.30}%
+\contentsline {section}{\numberline {4.4}Conslusion}{19}{section.31}%
+\contentsline {chapter}{\numberline {5}System Design and Architecture}{21}{chapter.32}%
+\contentsline {section}{\numberline {5.1}Introduction}{21}{section.33}%
+\contentsline {subsection}{\numberline {5.1.1}Hyperledger Fabric}{21}{subsection.34}%
+\contentsline {subsection}{\numberline {5.1.2}Membership and Access Control}{23}{subsection.36}%
+\contentsline {subsection}{\numberline {5.1.3}Machine Learning}{24}{subsection.38}%
+\contentsline {subsection}{\numberline {5.1.4}Webapp}{25}{subsection.40}%
+\contentsline {subsection}{\numberline {5.1.5}REST API Layer}{26}{subsection.42}%
+\contentsline {section}{\numberline {5.2}Proposed system}{27}{section.43}%
+\contentsline {subsection}{\numberline {5.2.1}Product Management}{29}{subsection.46}%
+\contentsline {chapter}{\numberline {6}Implementation}{31}{chapter.47}%
+\contentsline {section}{\numberline {6.1}Introduction}{31}{section.48}%
+\contentsline {section}{\numberline {6.2} Experimental Setup}{32}{section.49}%
+\contentsline {section}{\numberline {6.3}Blockchain Network}{32}{section.50}%
+\contentsline {section}{\numberline {6.4}Chaincode Development}{32}{section.51}%
 \vspace {2em}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{35}{dummy.52}%
+\contentsline {chapter}{Bibliography}{33}{dummy.52}%
