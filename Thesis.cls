@@ -182,13 +182,14 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{GROUND SHATTERING WORK TITLE} % Your thesis title - this is used in the title and abstract
+\thesistitle{Enhancing Trust and Traceability in Supply
+Chains through Blockchain and Machine Learning} % Your thesis title - this is used in the title and abstract
 %-------------------------------------------------  
-\supervisor{PROFs} % You supervisor's name - this is used in the title page
+\supervisor{Rajib Chakrabarty} % You supervisor's name - this is used in the title page
 %-------------------------------------------------   
 \examiner{} % Your examiner's name - this is not currently used anywhere in the template, cite it with \examname if you want it
 %-------------------------------------------------   
-\degree{Doctor of Philosophy} % Your degree name - this is currently used in the title page and abstract
+\degree{Bachelor of Technology} % Your degree name - this is currently used in the title page and abstract
 %-------------------------------------------------   
 \authors{YOUR NAME} % Your name - this is used in the title page and abstract
 %-------------------------------------------------   
@@ -199,20 +200,20 @@
 \keywords{} % Keywords for your thesis - this is not currently used anywhere in the template, cite it with \keywordnames if you want it
 %-------------------------------------------------   
 \university{\texorpdfstring{\href{http://www.iitd.ac.in} % Your university's URL
-                {Indian Institute of Technology Delhi}} % Your university's name - this is currently used in the title page
-                {Indian Institute of Technology Delhi}}
+                {Jorhat Engineering College}} % Your university's name - this is currently used in the title page
+                {Jorhat Engineering College}}
 %-------------------------------------------------   
 \UNIVERSITY{\texorpdfstring{\href{University Web Site URL Here (include http://www.iitk.ac.in)} % Your university's URL
-                {INDIAN INSTITUTE OF TECHNOLOGY DELHI}} % Your university's name in capitals - this is currently used in the abstract page
-                {INDIAN INSTITUTE OF TECHNOLOGY DELHI}}
+                {Jorhat Engineering College}} % Your university's name in capitals - this is currently used in the abstract page
+                {Jorhat Engineering College}}
 %-------------------------------------------------                
-\department{\texorpdfstring{\href{Department or School Web Site URL Here (include http://physics.iitd.ac.in)} % Your department's URL
-                {Department of Physics}} % Your department's name - used in the title page and abstract
-                {Department of Physics}}
+\department{\texorpdfstring{\href{} % Your department's URL
+                {Department of CSE}} % Your department's name - used in the title page and abstract
+                {Department of CSE}}
 %-------------------------------------------------                
-\DEPARTMENT{\texorpdfstring{\href{Department or School Web Site URL Here (include http://www.iitk.ac.in/ce)} % Your department's URL
-                {DEPARTMENT OF PHYSICS}} % Your department's name in capitals - this is not currently used anywhere in the template, cite it with \DEPTNAME if you want it
-                {DEPARTMENT OF PHYSICS}}
+\DEPARTMENT{\texorpdfstring{\href{} % Your department's URL
+                {DEPARTMENT OF CSE}} % Your department's name in capitals - this is not currently used anywhere in the template, cite it with \DEPTNAME if you want it
+                {DEPARTMENT OF CSE}}
 %-------------------------------------------------                
 %\group{\texorpdfstring{\href{Research Group Web Site URL Here (include http://)} % Your research group's URL
 %                {Research Group Name}} % Your research group's name - this is currently used in the title page 
@@ -256,7 +257,7 @@
       \smallskip
       {\LARGE \authornames \par}
       \vfill
-      {\large A thesis submitted in partial fulfillment for the \par}
+      {\large A thesis submitted in fulfillment for the \par}
       {\large degree of \degreename \par}
       \bigskip
       \bigskip
@@ -315,7 +316,7 @@
 \addcontentsline{toc}{chapter}{#1}}
 \renewcommand\tableofcontents{
 \btypeout{Table of Contents}
-\addtotoc{Contents}
+% \addtotoc{Contents}
 \begin{spacing}{1}{
     \setlength{\parskip}{1pt}
     \if@twocolumn
@@ -402,7 +403,7 @@
 }
 \newcommand\acknowledgements[1]{
 \btypeout{Acknowledgements}
-\addtotoc{Acknowledgements}
+% \addtotoc{Acknowledgements}
 \thispagestyle{plain}
 \begin{center}{\huge{\textit{Acknowledgements}} \par}\end{center}
 {\normalsize #1}
@@ -412,7 +413,7 @@
 
 \newcommand\certificate[1]{
 \btypeout{Certificate}
-\addtotoc{Certificate}
+% \addtotoc{Certificate}
 \thispagestyle{plain}
 \begin{center}{\huge{\textit{Certificate}} \par}\end{center}
 {\normalsize #1}
