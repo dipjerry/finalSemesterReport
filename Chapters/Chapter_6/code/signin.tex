@@ -5,4 +5,4 @@ User <-Get(eId);
 if User.Password is equal to password:
 return Success
 \end{lstlisting}
-This is example on user signin
+The signIn function checks the provided user ID and password for emptiness. If either of them is empty, an error response is returned. The function then retrieves the user's data from the system's state using the provided user ID. If the user data is not found, an error response is returned indicating that the entity (user) cannot be found. The function compares the provided password with the password stored in the user's data. If they do not match, an error response is returned indicating that either the ID or password is wrong. If the password matches, relevant user data such as address, email, name, user ID, user type, and profile picture are extracted from the entityUser object. Finally, a success response is returned with status 200 and the extracted user data, indicating a successful sign-in.

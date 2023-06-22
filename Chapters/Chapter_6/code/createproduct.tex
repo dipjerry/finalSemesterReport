@@ -10,4 +10,4 @@ Store(newProductId , Product , time );
 incrementProductCounter(Product);
 return success;       
 \end{lstlisting}
-    This is example on create product
+The create product process includes several steps. First, the input parameters are validated to ensure their correctness. Then, the system verifies the manufacturer's existence and user type. The price is converted to a numeric format. A unique product ID is generated, and the current timestamp is obtained. An invoice is created, and the product object is constructed with relevant details. It is then stored in the system's database or ledger using the generated ID. The product counter is incremented to maintain uniqueness. Finally, a success response is returned to indicate the successful creation of the product.

@@ -1,0 +1,16 @@
+\begin{lstlisting}[language=Python , caption=invoice creation]
+input product,from:
+if product exists in the network:
+productobj <-Get(productId);
+sellerId <- productObj.product.owner
+existingproduct <- Find(sellerId,ProductId);
+if existingproduct is not NULL:
+existingProduct.quantity += parseInt(product.quantity);
+invoidedate <- GetTimestamp(ctx);
+From seller Get invoicecounter,invoiceid,invoice;
+save(newinvoiceId,invoice);
+Push(sellerId,productId,invoicenumber);
+return invoice;
+       
+\end{lstlisting}
+The createInvoice takes in a product, which is parsed as a JSON object. It performs validations to ensure that at least one product is provided and that the manufacturer ID is provided. It then processes each product, grouping them by seller and calculating the total price for each seller's products. The function generates a unique invoice ID, creates an invoice object, and saves it to the ledger. Finally, it returns an array of invoices containing information such as the seller ID, product IDs, and invoice number.

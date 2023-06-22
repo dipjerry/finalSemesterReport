@@ -1,0 +1,23 @@
+\begin{lstlisting}[language=Python , caption=User query]
+Input type, recordElement, recordValue
+productbyType<-GET(Type)
+if productByTypeExist:
+assetCounter = parseInt(getCounter(assetType));
+startKey = assetType + '1';
+endKey = assetType + (assetCounter + 1);
+resultsIterator=getStateByRange(startKey, endKey);
+const buffer = [];
+while (true) 
+Record = resultIterator.next() 
+if Record.product.type !== type):
+if Record[recordElement].id === recordValue:
+buffer.push({ Key, Record });
+return { success: buffer  };   
+\end{lstlisting}
+The query function takes the input parameters include the type of product, the element to be searched , and its corresponding value . Then, the code attempts to retrieve products by their type using a GET request . If the products of the specified type exist, the code proceeds to fetch the asset counter for that type .Then the startKey and endKey are defined to set the range of assets to be retrieved. A resultsIterator is created to iterate through the state and obtain records falling within the specified range .A buffer is initialized to store the matching records . The code enters a loop , and within each iteration, it retrieves the next record . If the record's product type does not match the desired type , the loop continues to the next iteration. If the record's specified element  matches the provided value , the record is added to the buffer.Finally, the function returns the buffer containing the matching records , providing the result of the operation as a success along with the retrieved records.
+
+
+
+
+
+

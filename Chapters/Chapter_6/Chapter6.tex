@@ -16,41 +16,39 @@ During the implementation phase, we, as a team, focused on translating the desig
 \par The Hyperledger Fabric framework served as the foundation for our blockchain implementation. It provided us with the necessary tools and protocols for building a secure and decentralized supply chain management system. By leveraging the features of Hyperledger Fabric, such as smart contracts and consensus mechanisms, we were able to create a transparent and tamper-proof ledger for tracking and verifying supply chain transactions.
 
 
-
 % ----------------------------
 % Brief outline of the study
 % ----------------------------
 
 \section{ Experimental Setup}
 % \lipsum[22-25]
-<<<<<<< HEAD
-\noindent hello write like this 
-\
-=======
-\noindent hello dip write here 
->>>>>>> c8e3b86bfde9be36a2677fd6856a0e7891d5064c
 
-\section{Blockchain Network}
+\subsection{Blockchain Network Setup}
 % \lipsum[22-25]
-\noindent hello dip write here 
+\noindent In the initial step, we will set up the network infrastructure by installing and configuring the necessary dependencies such as Hyperledger Fabric, Docker, and Node.js. Then, we'll establish the network topology, consisting of three organizations (Org1, Org2, and Org3) and a single orderer node. Each organization will have its own cryptographic material generated using the Fabric CA, ensuring secure communication and authentication. 
+\subsection{Channel configuration}
+% \lipsum[22-25]
+\noindent Next, we configured the channel, which involves defining the channel structure and membership. The channel acts as a private communication pathway between the organizations, providing confidentiality and restricted access to transactions and data. We utilize the configtxgen tool to generate the required channel artifacts, including the genesis block. This block serves as the starting point for the channel and contains the initial configuration information.
 
-\section{Chaincode Development}
-<<<<<<< HEAD
-\lipsum[22-25]
-\subsection{User Registration}
+\subsection{Chaincode Development}
+\noindent In this project, we developed a smart 
+contract using the Fabric Contract API package and the Node.js SDK in Hyperledger Fabric. By leveraging the Fabric Contract API and Node.js SDK, we can simplify the contract development process and interact with the blockchain network seamlessly. In this section, we will define the contract logic, handle transactions, manage the ledger state, and interact with other network participants. The combination of the Fabric Contract API and Node.js SDK empowers us to build efficient and scalable smart contracts for decentralized applications.
+\subsubsection{User Registration}
 \input{Chapters/Chapter_6/code/register}
-\subsection{User Signin}
+\subsubsection{User Signin}
 \input{Chapters/Chapter_6/code/signin}
-\subsection{create product}
+\subsubsection{create product}
 \input{Chapters/Chapter_6/code/createproduct}
-\subsection{product listing}
+\subsubsection{product listing}
 \input{Chapters/Chapter_6/code/productlisting}
-\subsection{product listing}
-\input{Chapters/Chapter_6/code/productlisting}
-=======
+\subsubsection{send to exporter}
+\input{Chapters/Chapter_6/code/sendtoexporter}
+\subsubsection{invoice creation}
+\input{Chapters/Chapter_6/code/invoicecreation}
+\subsubsection{query}
+\input{Chapters/Chapter_6/code/query}
 %\lipsum[22-25]
-\noindent hello dip write here 
->>>>>>> c8e3b86bfde9be36a2677fd6856a0e7891d5064c
+
 
 
 

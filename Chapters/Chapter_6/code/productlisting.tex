@@ -20,4 +20,4 @@ updatedProductAsBytes= serializeToBytes(product);
 return success== updatedProductAsBytes;
       
 \end{lstlisting}
-    This is example on product listing
+The product listing process to be ready for export involves several steps. First, the relevant product details are retrieved from the system using the product ID. The system verifies the existence of the product and ensures that it is in the appropriate status for export. The necessary product information, such as type, origin, owner, quantity, price, production date, and availability for exporter, is updated accordingly. Additionally, the producer's status is updated to reflect that the product is available for export. The updated product object is serialized and stored back into the system. This process ensures that the product is listed and marked as ready for export, allowing exporters to view and initiate export transactions. The specific implementation may vary based on the system requirements and the desired level of validation and persistence.
