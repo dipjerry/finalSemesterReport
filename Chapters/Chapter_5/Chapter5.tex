@@ -65,9 +65,9 @@ output.For a rotten Fruit it predicts the fruit as rotten and for a fresh it pre
 
 \subsection{REST API Layer}
 \noindent shows the API endpoints build using express.js implemented using Node.js to handle requests and responses between the frontend application and the Hyperledger Fabric network. The APIs facilitate the communication between the frontend application and the smart contracts deployed on the peers for transaction submission, endorsement, and validation such as managing users, goods, orders, and asset tracking, asset transfer which are part of the Supply Chain Management Chaincode.
-The "Admin" role is intended to utilize the "createUser" method to add new users to the system. Users can log in and authenticate their credentials using the "sign in" feature.
-The "Manufacturer" role has access to the "createProduct" method, which lets them add new goods to the blockchain. The "Manufacturer," "Exporter," "Importer," and "Retailer" roles can change a product's information and status as it passes through the supply chain by using the "update product" function.
-As items are delivered from one supply chain entity to another, the functions "sendToExporter," "sendToImporter," and "sendToRetailer" are used to update the asset transfer status of those products.
+The ``Admin" role is intended to utilize the ``createUser" method to add new users to the system. Users can log in and authenticate their credentials using the ``sign in" feature.
+The ``Manufacturer" role has access to the ``createProduct" method, which lets them add new goods to the blockchain. The ``Manufacturer" ``Exporter" ``Importer" and ``Retailer" roles can change a product's information and status as it passes through the supply chain by using the ``update product" function.
+As items are delivered from one supply chain entity to another, the functions ``sendToExporter" ``sendToImporter" and ``sendToRetailer" are used to update the asset transfer status of those products.
 Then at last a consumer can buy the product from a retailer.
 
 \section{Proposed system}
@@ -87,5 +87,5 @@ and its management is achieved by creating product update products and querying 
 \item	Logistics is in charing of carrying out the shipment and delivery of the product from one participant to another.
 \item	The retailer is responsible for selling the product to the end consumer, who can place an order for the desired product.
 \end{itemize}
-\indent Once the product is delivered to the consumer, they can mark it as "Delivered" in the system, indicating that the product has been received. This helps in tracking the status of the product delivery and ensures transparency and accountability in the supply chain process.
+\indent Once the product is delivered to the consumer, they can mark it as ``Delivered" in the system, indicating that the product has been received. This helps in tracking the status of the product delivery and ensures transparency and accountability in the supply chain process.
 At each step of the supply chain, the ML model check the product's condition and quality and if it's found to be damaged then the product is rejected and it will not move to the next step of the supply chain.
