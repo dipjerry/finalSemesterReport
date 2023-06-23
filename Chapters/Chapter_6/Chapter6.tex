@@ -46,6 +46,26 @@ contract using the Fabric Contract API package and the Node.js SDK in Hyperledge
 \input{Chapters/Chapter_6/code/invoicecreation}
 \subsubsection{query}
 \input{Chapters/Chapter_6/code/query}
+\subsection{Machine Learning Model}
+\noindent The developed solution presents a machine learning (ML) model for detecting the freshness of fruits using a ConvolutionalNeural Network (CNN) algorithm.The pseuodocode for our model is shown below \par
+\begin{lstlisting}[language=Python , caption=ML model]
+Mount Drive with Colab
+Set Kaggle configuration and download dataset
+Unzip the dataset
+Access dataset in Drive and copy it to Colab
+Prepare the data directories
+Display sample images from the dataset
+Preprocess the data using ImageDataGenerator
+Build the model architecture
+Compile the model with optimizer and loss function
+Train the model on the training data
+Evaluate the model's accuracy and loss
+Run the model on uploaded images to make predictions
+Save the trained model in different formats
+Clean up the kernel
+\end{lstlisting}
+\noindent Then we use react component to create a page for image classification. It uses the TensorFlow.js library to load and run a the saved model for image classification. The component allows the user to classify images either from the webcam or from a local file. It also provides options to update the model, display predictions, and toggle the webcam.
+\noindent 
 %\lipsum[22-25]
 
 
