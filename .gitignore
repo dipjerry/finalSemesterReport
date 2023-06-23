@@ -5,8 +5,6 @@ main.synctex.gz
 main.toc
 main.toc
 main.out
-Biography.aux
-LOP.aux
 main.aux
 main.blg
 main.fdb_latexmk
@@ -16,3 +14,5 @@ main.log
 main.lol
 main.lot
 main.out
+main.bbl
+title1.aux
