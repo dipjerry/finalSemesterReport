@@ -20,8 +20,25 @@ During the implementation phase, we, as a team, focused on translating the desig
 % ----------------------------
 
 \section{ Experimental Setup}
-% \lipsum[22-25]
+We utilized a combination of technologies and hardware to set up our experimental environment. Here is a summary of the technologies and system specifications we used:
 
+We employed Docker, a containerization platform, to create isolated containers and package our applications along with their dependencies.
+
+Hyperledger Fabric 2.0, an open-source blockchain framework, was utilized for building distributed ledger applications. It offered a modular and extensible architecture, supporting features such as pluggable consensus algorithms, smart contracts, and permissioned networks.
+
+Our system was powered by an AMD Ryzen 5 processor, providing a reliable and efficient computing performance.
+
+Windows 11 served as our operating system, providing a stable and user-friendly environment for hosting our development setup.
+
+We had 16GB of memory, allowing us to handle resource-intensive tasks and run multiple applications simultaneously without performance issues.
+
+Git, a version control system, was used for collaborative code management. We leveraged its capabilities to clone and maintain the source code repositories related to Hyperledger Fabric and other dependencies.
+
+Node.js, a JavaScript runtime environment, enabled us to execute Hyperledger Fabric CLI tools and interact with the blockchain network.
+
+Visual Studio Code (VS Code), a lightweight and versatile code editor, offered an integrated development environment for various programming languages. We utilized it for writing and debugging code associated with Hyperledger Fabric.
+
+To create a Linux-like environment on our Windows system, we installed and configured the Windows Subsystem for Linux (WSL) with Ubuntu 20.04. This allowed us to execute Hyperledger Fabric commands seamlessly.
 \subsection{Blockchain Network Setup}
 % \lipsum[22-25]
 \noindent In the initial step, we will set up the network infrastructure by installing and configuring the necessary dependencies such as Hyperledger Fabric, Docker, and Node.js. Then, we'll establish the network topology, consisting of three organizations (Org1, Org2, and Org3) and a single orderer node. Each organization will have its own cryptographic material generated using the Fabric CA, ensuring secure communication and authentication. 
