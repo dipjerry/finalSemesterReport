@@ -1,8 +1,37 @@
 \begin{thebibliography}{1}
 
 \bibitem{bib1}
-{IRC:103}.
-\newblock {Guidelines For Pedestrian Facilities}.
-\newblock Technical report, Indian Road Congress, 2012.
+{A. Alketbi,Q. Nasir and M. A. Talib }.
+\newblock { ``Blockchain for government services—Use cases security benefits
+  and challenges"}.
+\newblock Technical report, in Proc. 15th Learn. Technol. Conf. (L\&T), Feb.
+  2018.
+
+\bibitem{bib5}
+{Andry Alamsyah, Sri Widiyanesti, Puspita Wulansari, Eva Nurhazizah, Andrieta
+  Shintia Dewi, Dadan Rahadian, Dian Puteri Ramadhani, Muhammad Naufal Hakim,
+  Prenzeline Tyasamesi}.
+\newblock {``Journal of Open Innovation: Technology, Market,and Complexity"}.
+\newblock Technical report, 2023.
+
+\bibitem{bib2}
+{Deebthik Ravi, Sashank Ramachandran , Raahul Vignesh , Vinod Ramesh Falmari ,
+  M. Brindha,}.
+\newblock { ``Privacy preserving transparent supply chain management through
+  Hyperledger Fabric"}.
+\newblock Technical report, June 2022.
+
+\bibitem{bib4}
+{Khaled Salah , Nishra Nizamuddin, Raja Jayaraman and Mohammad Omar}.
+\newblock {``Blockchain-Based Soybean Traceability in Agricultural Supply
+  Chain"}.
+\newblock Technical report, June 18, 2019.
+
+\bibitem{bib3}
+{M. P. Caro, M. S. Ali, M. Vecchio, and R. Giaffreda }.
+\newblock { ``Blockchain-based traceability in Agri-Food supply chain
+  management: A practical implementation"}.
+\newblock Technical report, in Proc. IoT Vertical Top. Summit Agricult. (IOT
+  Tuscany), May 2018.
 
 \end{thebibliography}
