@@ -421,6 +421,15 @@ Chains through Blockchain and Machine Learning} % Your thesis title - this is us
 
 }
 
+\newcommand\Declaration[1]{
+\btypeout{Declaration}
+% \addtotoc{Certificate}
+\thispagestyle{plain}
+\begin{center}{\huge{\textit{Declaration}} \par}\end{center}
+{\normalsize #1}
+\vfil\vfil\null
+}
+
 
 
 \newcommand\dedicatory[1]{
